@@ -1,0 +1,13 @@
+{
+    "name" : "nodeXbeeQuery",
+    "version" : "0.0.1",
+    "author" : "Irving Derin <irving.derin@gmail.com>",
+    "dependencies" : {
+        "serialport" : "1.0.8",
+        "xbee" : "0.0.4",
+        "express" : "3.x.x",
+        "jade" : "*",
+        "socket.io" : "*"
+
+    }
+}
